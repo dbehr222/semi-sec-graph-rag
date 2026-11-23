@@ -2,3 +2,8 @@
 .venv
 .vscode
 ingest/__pycache__
+data/raw/
+data/processed/
+data/cache/
+__pycache__/
+.pytest_cache/
