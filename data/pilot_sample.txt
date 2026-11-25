@@ -1,0 +1,31 @@
+# pilot sample: 30 information-rich chunks (latest FY), tickers=NVDA,DIOD,AMAT
+b5c4f5ca62b4d3ea  # NVDA 10-K/2026/Item1 score=39 names=Broadcom,INTEL,ADVANCED MICRO DEVICES,Marvell Technology,MICROSOFT,Alphabet,Qualcomm,Amazon
+9c7b57be3f793993  # NVDA 10-K/2026/Item1 score=25 names=MICRON TECHNOLOGY,TSMC,Samsung,SK hynix,Hon Hai,Wistron
+e5a15e88c4461c31  # NVDA 10-K/2026/Item1 score=9 names=TEXAS INSTRUMENTS,MICROSOFT,AMD
+b17d4852e620ccc7  # NVDA 10-K/2026/Item1A score=7 names=Mellanox
+1508b24bc08c0d55  # NVDA 10-K/2026/Item1A score=6 names=Mellanox
+9eb3bd91e2039cf7  # NVDA 10-K/2026/Item1A score=5 names=
+ff290ed9a5f4b81d  # NVDA 10-K/2026/Item1A score=5 names=
+fb0ec1e625432d79  # NVDA 10-K/2026/Item7 score=5 names=
+cd578407dbc289fa  # NVDA 10-K/2026/Item1 score=4 names=
+d2349ffec4f5afb4  # NVDA 10-K/2026/Item1A score=4 names=MICROSOFT
+0948f347c2a1c136  # DIOD 10-K/2025/Item1 score=12 names=TEXAS INSTRUMENTS,ON SEMICONDUCTOR,Lite-On
+371a08c572406e4c  # DIOD 10-K/2025/Item1 score=12 names=TEXAS INSTRUMENTS,NXP Semiconductors,ON SEMICONDUCTOR
+600fee60ecadbcf2  # DIOD 10-K/2025/Item1A score=11 names=TEXAS INSTRUMENTS,NXP Semiconductors,ON SEMICONDUCTOR
+fced16ccd769ce96  # DIOD 10-K/2025/Item1 score=7 names=
+0b54fb0d0b98101a  # DIOD 10-K/2025/Item1 score=7 names=
+6c832488a4da7d51  # DIOD 10-K/2025/Item1 score=7 names=
+55d52fd06beb6fa6  # DIOD 10-K/2025/Item7 score=7 names=
+45b6436bc19e8ef4  # DIOD 10-K/2025/Item7 score=5 names=
+895ab2144bf37ea2  # DIOD 10-K/2025/Item1A score=4 names=
+6d50a7d39a6d878d  # DIOD 10-K/2025/Item1A score=4 names=
+910177f2c46505e6  # AMAT 10-K/2025/Item1 score=12 names=INTEL,ADVANCED MICRO DEVICES,KLA,Xilinx
+62f0cb3763355516  # AMAT 10-K/2025/Item1 score=5 names=
+2e78aaed0d90155f  # AMAT 10-K/2025/Item1A score=5 names=
+4fd53c3cbb2c6df2  # AMAT 10-K/2025/Item1A score=4 names=
+8731e42521890fd9  # AMAT 10-K/2025/Item1 score=3 names=
+df23e3d833fb0f12  # AMAT 10-K/2025/Item1 score=3 names=KLA
+267594ef0deb6b56  # AMAT 10-K/2025/Item1A score=3 names=
+bd8582e25e8c8792  # AMAT 10-K/2025/Item1A score=3 names=
+822318168bf1ce6b  # AMAT 10-K/2025/Item1A score=3 names=
+ae07eda151d38c0c  # AMAT 10-K/2025/Item7 score=3 names=
